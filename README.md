@@ -39,3 +39,5 @@ Filmler genellikle 6–8 arası puan alıyor, bu da genel olarak ortalama kalite
 Drama ve Comedy türleri, veri setindeki film sayısının en büyük kısmını oluşturuyor.
 
 Çok sayıda oy alan filmler genellikle yüksek puan almış, az oy alan filmler ise puan açısından daha heterojen.
+kaggle 
+https://www.kaggle.com/datasets/samruddhim/imdb-movies-analysis
